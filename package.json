@@ -1,0 +1,36 @@
+{
+  "name": "node-ojds-nx-vigemclient",
+  "version": "1.0.0",
+  "description": "Virtual controller via ViGEmClient, fetching inputs from OJDS-NX running on a Switch",
+  "main": "client.js",
+  "scripts": {
+    "client": "node client.js",
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Istador/node-ojds-nx-vigemclient.git"
+  },
+  "keywords": [
+    "controller",
+    "ViGEmClient",
+    "OJDS",
+    "NX",
+    "Switch"
+  ],
+  "author": "Robin C. Ladiges",
+  "license": "MPL-2.0",
+  "licenses": [
+    {
+      "type": "MPL-2.0",
+      "url": "https://github.com/Istador/node-ojds-nx-vigemclient/raw/public/LICENSE.md"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Istador/node-ojds-nx-vigemclient/issues"
+  },
+  "homepage": "https://github.com/Istador/node-ojds-nx-vigemclient",
+  "dependencies": {
+    "vigemclient": "^1.4.1"
+  }
+}
