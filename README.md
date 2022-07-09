@@ -8,7 +8,7 @@ E.g. to display the controller inputs using https://gamepadviewer.com/.
 
 ### On the Switch
 
-First the Switch needs to be [modded](https://switch.homebrew.guide/) with [Athmosphere](https://github.com/Atmosphere-NX/Atmosphere).
+First the Switch needs to be [modded](https://switch.homebrew.guide/) and using the [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) custom firmware.
 
 Once that is done we can copy over the [OJDS-NX](https://github.com/Istador/OJDS-NX/) files to the SD card (download the latest `zip` from the [releases](https://github.com/Istador/OJDS-NX/releases)).
 
